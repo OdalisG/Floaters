@@ -1,0 +1,61 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+h2 {
+		text-align: center;
+}
+.box {
+	width: 60px;
+	height: 60px;
+	background-color: red;
+	margin: auto;
+	}
+.box:hover {
+	background-color: blue;
+}
+
+.box1 {
+		width: 60px;
+	height: 60px;
+	background-color: green;
+	margin: auto;
+	}
+.box1:hover {
+	background-color: gray;
+}
+
+.box2 {
+		width: 60px;
+	height: 60px;
+	background-color: orange;
+	margin: auto;
+	}
+.box2:hover {
+	background-color: white;
+}
+
+.box3 {
+		width: 60px;
+	height: 60px;
+	background-color: pink;
+	margin: auto;
+	}
+.box3:hover {
+	background-color: yellow;
+}
+
+.ball {
+	width: 60px;
+	height: 60px;
+	background-color: lime;
+	border-radius: 60%;
+}
+p {
+	text-align: center;
+	}
+	
+h3 {
+	text-align: center;
+}
